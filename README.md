@@ -21,9 +21,9 @@
 
 ### Step 2: Fork this Repo
 
-<video width="320" height="240">
-   <source src="./docs/fork_repo.mp4" type="video/mp4">  
-</video>
+
+<video src="https://github.com/Satvik-2727/nvim/assets/87568817/f50bb43e-14b0-4899-8661-df7cd14e8717"></video>
+
 
 ### Step 3: Open Git Bash and go to the following path:
 
@@ -35,9 +35,11 @@
 
 ### Step 5: Delete the lua folder and rename the downloaded folder to lua
 
-<video width="320" height="240">
-   <source src="./docs/folder_rename.mp4" type="video/mp4">  
-</video>
+
+
+<video src="https://github.com/Satvik-2727/nvim/assets/87568817/93e99096-8319-4413-b7b3-f423f888c0cf"></video>
+
+
 
 ## You can start using my nvim setup 🚀🚀
 
